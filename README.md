@@ -47,8 +47,10 @@ Top 20 movie names, descending order:
 [Django Unchained]
 
 
+-------------------------
 
 Top credited crew (descending order) across top 20 movies:
+
 [Christopher Nolan]
 
 [Peter Jackson]
